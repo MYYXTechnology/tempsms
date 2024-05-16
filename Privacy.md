@@ -9,6 +9,7 @@ b) According to the relevant provisions of the law or the requirements of the ad
 
 c) If you violate relevant laws, regulations or rules, you need to disclose them to a third party.
 
+d) Malicious users will be banned from using this software.
 Information security
 
 Please protect your personal information properly and provide it to others only when necessary. If you find that your personal information is leaked, please contact the customer service of the software immediately so that the software can take corresponding measures.
